@@ -1,2 +1,2 @@
 # project-util
-common util
+common utility
