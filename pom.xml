@@ -2,6 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
+  <parent>
+	  <groupId>com.project</groupId>
+  	<artifactId>project</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </parent>
+  
   <groupId>com.util</groupId>
   <artifactId>project-util</artifactId>
   <version>0.0.1-SNAPSHOT</version>
@@ -9,6 +15,7 @@
 
   <name>project-util</name>
   <url>http://maven.apache.org</url>
+  <description>open project solution</description>
   
   <description>common util</description>
 
