@@ -1,4 +1,4 @@
-package com.util;
+package com.cache.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
